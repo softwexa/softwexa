@@ -18,11 +18,13 @@ Softwexa develops business applications, ERP extensions and integrations for the
 
 | Product | Focus | Explore |
 | --- | --- | --- |
-| **WexaFlow** | A native workflow workspace for Microsoft Dynamics 365 Finance, with flow configuration and data exploration. | [Product](https://www.softwexa.com/products/wexaflow/) · [Evaluation guide](https://www.softwexa.com/docs/wexaflow/) |
-| **WexaSQL** | A native SELECT query and data exploration workspace for Microsoft Dynamics 365 Finance. | [Product](https://www.softwexa.com/products/wexasql/) · [Evaluation guide](https://www.softwexa.com/docs/wexasql/) |
+| **WexaFlow** | A native workflow workspace for Microsoft Dynamics 365 Finance, with flow configuration and data exploration. | [GitHub repository](https://github.com/softwexa/wexaflow) · [Product](https://www.softwexa.com/products/wexaflow/) · [Evaluation guide](https://www.softwexa.com/docs/wexaflow/) |
+| **WexaSQL** | A native SELECT query and data exploration workspace for Microsoft Dynamics 365 Finance. | [GitHub repository](https://github.com/softwexa/wexasql) · [Product](https://www.softwexa.com/products/wexasql/) · [Evaluation guide](https://www.softwexa.com/docs/wexasql/) |
 | **Dolibarr themes** | Three visual themes for Dolibarr ERP & CRM, with options for connected staff workspaces. | [Theme collection](https://www.softwexa.com/products/dolibarr-theme-pack/) |
 
 WexaFlow and WexaSQL are in development evaluation. The package, compatible Finance versions and runtime acceptance are agreed for each delivery.
+
+**Free licenses require an application.** Apply for [WexaFlow Free access](https://www.softwexa.com/contact/?product=wexaflow&service=WexaFlow%20Free%20license%20application) or [WexaSQL Free access](https://www.softwexa.com/contact/?product=wexasql&service=WexaSQL%20Free%20license%20application). Product access is activated after the tenant grant is confirmed.
 
 ## How we help
 
